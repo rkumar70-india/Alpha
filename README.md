@@ -1,4 +1,4 @@
 # Alpha
 This is my first github repo
 <br>
-Author- Rohit Kumar
+Author- Rohit Kumar singh
